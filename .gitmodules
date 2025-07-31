@@ -1,0 +1,3 @@
+[submodule "cases/controle_de_fluxo_processo_seletivo"]
+	path = cases/controle_de_fluxo_processo_seletivo
+	url = https://github.com/mateussilvarocha/Cases-dio-trilha-java-basico.git
